@@ -1,0 +1,25 @@
+{
+  "name": "sd-venues",
+  "version": "0.0.1",
+  "description": "Venues from Foursquare close to me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/sd-venues.git"
+  },
+  "keywords": [
+    "foursquare",
+    "venues",
+    "selfie",
+    "discount"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/sd-venues/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/sd-venues#readme"
+}
